@@ -339,6 +339,12 @@ section {
   font-size: 100px;
 }
 
+@media (max-width: 768px) {
+  .cta i {
+    font-size: 80px;
+  }
+}
+
 .cta h2 {
   margin-bottom: 40px;
 }
